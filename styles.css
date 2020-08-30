@@ -1,0 +1,99 @@
+
+body {
+    max-width: 450px;
+    margin: 20px:
+}
+
+.ovning1 h1, .ovning1 p {
+    border: 3px solid #FA8274;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.ovning1 h1 {
+    color: #FA8274;
+}
+
+.ovning1 p, .ovning2 p, .ovning3 p {
+    font-size: 24px;
+}
+
+.ovning2 {
+    background: #90EE90;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+.ovning2 h1 {
+    color: #008000;
+    padding: 10px;
+    border-bottom: 3px solid #008000;
+    margin-bottom: 0;
+}
+
+.ovning2 p {
+    padding: 10px;
+    margin-top: 0px;
+}
+
+.ovning3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ovning3 h1, .ovning3 p {
+    background: #FF69B4;
+    color: white;
+    padding: 10px;
+}
+
+.ovning3 h1 {
+    border-bottom: 3px solid #FF00FF;
+}
+
+.ovning3 span {
+    border: 3px solid #FF00FF;
+    font-size: 24px;
+    padding: 0 20px;
+    
+}
+
+.ovning3 div {
+    text-align: center;
+}
+
+.ovning4 {
+    border: 3px solid #008000;
+    height: 120px;
+    width: 600px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.ovning4 div {
+    background: #00FF7F;
+    color: white;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin: 10px;
+    }
+
+.ovning4 div p {
+    margin-top: 40%;
+    font-weight: bold;
+}
+
+.ovning5 {
+    border: 3px solid #0000FF;
+    background: #ADD8E6;
+    padding: 10px;
+}
+
+.ovning5 h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url("./blueblock.png");
+    padding: 10px;
+    color: white;
+}
